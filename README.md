@@ -27,7 +27,7 @@ Users should be able to:
 
 ## My process
 
-Build the price grid as close to the design as possible
+Build the price grid as close to the design as possible. Made some minor changes with the colors and styles to the price grid.
 
 ### Built with
 
